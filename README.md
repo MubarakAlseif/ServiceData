@@ -10,8 +10,6 @@ ServiceData is an HTTP networking library written in Swift which can download di
 To use `ServiceData`, For example:
 
 ```swift
-// swift-tools-version:5.2
-
 import ServiceData
 
 struct UserVM {
